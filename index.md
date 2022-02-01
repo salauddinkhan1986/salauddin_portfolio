@@ -22,7 +22,7 @@ Here are some of my best Data Science Projects. I have explored various machine-
 
 [ Predict if the client will subscribe a term deposit (variable y).using a logistic classifier](https://github.com/salauddinkhan1986/LOGISTIC-REGRESSION-PROJECT/blob/main/logistic_regression.ipynb)
 
-<img src="image of bank.jpeg?raw=true"/>
+<img src="image/of bank.jpeg?raw=true"/>
 
 *Skilled Used**: Python.Pandas and sklearn
 
