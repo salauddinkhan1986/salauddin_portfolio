@@ -20,13 +20,19 @@ Here are some of my best Data Science Projects. I have explored various machine-
 
 ***
 
-[ Predict if the client will subscribe a term deposit (variable y).
+[ Predict if the client will subscribe a term deposit (variable y).using a logistic classifier](https://github.com/salauddinkhan1986/LOGISTIC-REGRESSION-PROJECT/blob/main/logistic_regression.ipynb)
 
- using a logistic classifier](https://github.com/salauddinkhan1986/LOGISTIC-REGRESSION-PROJECT/blob/main/logistic_regression.ipynb)
+<img src="image of bank.jpeg?raw=true"/>
 
-<img src="images/breast-cancer.jpeg?raw=true"/>
+*Skilled Used**: Python.Pandas and sklearn
 
--
+**Project Objective**: Predicting Bike rental demand on basis of weather and seasonal factors in advance to take appropiate measures which finally will result in bike utilization.
+
+**Quantifiable Result:** We could predict the rental bike count resulting in 78% Accuracy.
+- Used Linear Regression to predict the number of bikes rented in the city of Seoul
+- The data had quite a few categorical variables which were encoded for use in the model
+- Encoded categorical variables to numeric using Sklearn due to the presence of many string columns
+- Fit a multiple linear regression model with high prediction accuracy through iteration
 
 ***
 
