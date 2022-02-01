@@ -22,7 +22,7 @@ Here are some of my best Data Science Projects. I have explored various machine-
 
 [ Predict if the client will subscribe a term deposit (variable y).using a logistic classifier](https://github.com/salauddinkhan1986/LOGISTIC-REGRESSION-PROJECT/blob/main/logistic_regression.ipynb)
 
-<img src="image/bank.jpeg?raw=true"/>
+<img src="images/bank.jpeg?raw=true"/>
 
 *Skilled Used**: Python.Pandas and sklearn
 
@@ -51,13 +51,53 @@ Here are some of my best Data Science Projects. I have explored various machine-
 
 [The data contains observations of about 240 million clicks, and whether a given click resulted in a download or not]()https://github.com/salauddinkhan1986/Bagging-Boosting-Project/blob/main/Bagging_and_Boosting_project.ipynb
 
-<img src="images/knee-brace-ortho.png?raw=true"/>
+<img src="images/data.jpeg?raw=true"/>
 
 **Skilled Used**: Python.Pandas and sklearn
 
-**Project Objective**: The classification goal is to predict of orthopedic parameters and provided with their classification as Normal or Abnormal.
+**Project Objective**: The classification goal is to The data contains observations of about 240 million clicks, and whether a given click resulted in a download or not (1/0): 
 
-**Quantifiable Result:** We could predict the orthopedic patient is Normal or Abnormal Accuracy of the Naive Bayes Clasification is 82.26% .
-- Used the K Nearest Neighbours algorithm to classify a patient's condition as normal or abnormal based on various orthopedic parameters
-- Compared predictive performance by fitting a Naive Bayes model to the data
-- Selected best model based on train
+**Quantifiable Result:** We could predict whether a given click resulted in a download or not.
+Accuracy of XGBoostClassifier 94.87%
+Accuracy of the Bagging classifier accuracy is0.99715.
+- Used the XGBoostClassifier & BaggingClassifier whether a 240 million click resulted in download or not.
+Compared predictive performance by fitting a XGBoostClassifier & BaggingClassifier model to the data
+- Selected best model based on train and test performance.
+
+[the number of clusters for the data]()https://github.com/salauddinkhan1986/Kmeans-cluster-project/blob/main/Kmeans.ipynb
+
+<img src="images/cluster.jpeg?raw=true"/>
+
+**Skilled Used**: Python.Pandas and sklearn
+
+**Project Objective**: The classification goal is to find the number of clusters for the data. Policy makers to understand how they can improve on their policies for employee benefits
+
+**Quantifiable Result:** We could predict number of cluster.
+Used the clustering algorithms,K-Means and Hierarchical clustering.
+- The data had quite a few categorical variables which were encoded for use in the model
+- Encoded categorical variables to numeric using Sklearn due to the presence of many string columns
+- Fit a multiple logistic regression model with high prediction accuracy through iteration
+- Selected best model based on train and test performance.
+
+[Deployment_of_ML_Model_using_Flask_Framework]()https://github.com/salauddinkhan1986/Model_Deployment
+
+
+
+
+[Deep Neural Network with Keras for MNIST handwritten classification and recognition]()https://github.com/salauddinkhan1986/Hand-writing-Recoginition-project
+
+<img src="images/neural.jpeg?raw=true"/>
+
+
+**Skilled Used**: Python.Pandas.keras and tensorflow
+
+**Project Objective**: The classification goal is to find baseline model to find handwritten classification and recognition.
+
+**Quantifiable Result:** We could predict the handwritten classification and recognition.
+Used the keras and tensorflow.
+- The data had quite a few categorical variables which were encoded for use in the model
+- Encoded categorical variables to numeric using Sklearn due to the presence of many string columns
+- Fit a multiple sigmoid and relu function.
+- Selected best model based on train and test performance.
+
+
