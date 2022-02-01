@@ -49,7 +49,7 @@ Here are some of my best Data Science Projects. I have explored various machine-
 - Compared predictive performance by fitting a Naive Bayes model to the data
 - Selected best model based on train and test performance
 
-[The data contains observations of about 240 million clicks, and whether a given click resulted in a download or not]()https://github.com/salauddinkhan1986/Bagging-Boosting-Project/blob/main/Bagging_and_Boosting_project.ipynb
+[The data contains observations of about 240 million clicks, and whether a given click resulted in a download or not](https://github.com/salauddinkhan1986/Bagging-Boosting-Project/blob/main/Bagging_and_Boosting_project.ipynb)
 
 <img src="images/data.jpeg?raw=true"/>
 
