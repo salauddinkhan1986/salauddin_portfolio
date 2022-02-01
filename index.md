@@ -36,10 +36,15 @@ Here are some of my best Data Science Projects. I have explored various machine-
 
 ***
 
-[Identifying symptoms of orthopedic patients as normal or abnormal](/sample_page)
+[Identifying symptoms of orthopedic patients as normal or abnormal]()
 
 <img src="images/knee-brace-ortho.png?raw=true"/>
 
+*Skilled Used**: Python.Pandas and sklearn
+
+**Project Objective**: The classification goal is to predict of orthopedic parameters and provided with their classification as Normal or Abnormal.
+
+**Quantifiable Result:** We could predict the orthopedic patient is Normal or Abnormal Accuracy of the Naive Bayes Clasification is 82.26% .
 - Used the K Nearest Neighbours algorithm to classify a patient's condition as normal or abnormal based on various orthopedic parameters
 - Compared predictive performance by fitting a Naive Bayes model to the data
 - Selected best model based on train and test performance
