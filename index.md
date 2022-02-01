@@ -8,6 +8,10 @@ Here are some of my best Data Science Projects. I have explored various machine-
 
 <img src="images/seoul-bikes.jpeg?raw=true"/>
 
+**Skilled Used**: Python.Pandas and sklearn
+**Project Objective**: Predicting Bike rental demand on basis of weather and seasonal factors in advance to take appropiate measures which finally will result in bike utilization.
+
+**Quantifiable Result:** We could predict the rental bike count resulting in 78% Accuracy.
 - Used Linear Regression to predict the number of bikes rented in the city of Seoul
 - The data had quite a few categorical variables which were encoded for use in the model
 - Encoded categorical variables to numeric using Sklearn due to the presence of many string columns
