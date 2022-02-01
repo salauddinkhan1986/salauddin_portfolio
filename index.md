@@ -22,7 +22,7 @@ Here are some of my best Data Science Projects. I have explored various machine-
 
 [ Predict if the client will subscribe a term deposit (variable y).using a logistic classifier](https://github.com/salauddinkhan1986/LOGISTIC-REGRESSION-PROJECT/blob/main/logistic_regression.ipynb)
 
-<img src="image/image of bank.jpeg.jpeg?raw=true"/>
+<img src="image/bank.jpeg?raw=true"/>
 
 *Skilled Used**: Python.Pandas and sklearn
 
@@ -40,7 +40,7 @@ Here are some of my best Data Science Projects. I have explored various machine-
 
 <img src="images/knee-brace-ortho.png?raw=true"/>
 
-*Skilled Used**: Python.Pandas and sklearn
+**Skilled Used**: Python.Pandas and sklearn
 
 **Project Objective**: The classification goal is to predict of orthopedic parameters and provided with their classification as Normal or Abnormal.
 
@@ -48,3 +48,16 @@ Here are some of my best Data Science Projects. I have explored various machine-
 - Used the K Nearest Neighbours algorithm to classify a patient's condition as normal or abnormal based on various orthopedic parameters
 - Compared predictive performance by fitting a Naive Bayes model to the data
 - Selected best model based on train and test performance
+
+[The data contains observations of about 240 million clicks, and whether a given click resulted in a download or not]()https://github.com/salauddinkhan1986/Bagging-Boosting-Project/blob/main/Bagging_and_Boosting_project.ipynb
+
+<img src="images/knee-brace-ortho.png?raw=true"/>
+
+**Skilled Used**: Python.Pandas and sklearn
+
+**Project Objective**: The classification goal is to predict of orthopedic parameters and provided with their classification as Normal or Abnormal.
+
+**Quantifiable Result:** We could predict the orthopedic patient is Normal or Abnormal Accuracy of the Naive Bayes Clasification is 82.26% .
+- Used the K Nearest Neighbours algorithm to classify a patient's condition as normal or abnormal based on various orthopedic parameters
+- Compared predictive performance by fitting a Naive Bayes model to the data
+- Selected best model based on train
