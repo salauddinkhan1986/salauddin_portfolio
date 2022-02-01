@@ -79,10 +79,6 @@ Used the clustering algorithms,K-Means and Hierarchical clustering.
 - Fit a multiple logistic regression model with high prediction accuracy through iteration
 - Selected best model based on train and test performance.
 
-[Deployment_of_ML_Model_using_Flask_Framework](https://github.com/salauddinkhan1986/Model_Deployment)
-
-
-
 
 [Deep Neural Network with Keras for MNIST handwritten classification and recognition](https://github.com/salauddinkhan1986/Hand-writing-Recoginition-project)
 
