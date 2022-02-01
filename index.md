@@ -36,7 +36,7 @@ Here are some of my best Data Science Projects. I have explored various machine-
 
 ***
 
-[Identifying symptoms of orthopedic patients as normal or abnormal]()
+[Identifying symptoms of orthopedic patients as normal or abnormal](https://github.com/salauddinkhan1986/KNN-NB-project)
 
 <img src="images/knee-brace-ortho.png?raw=true"/>
 
@@ -64,7 +64,7 @@ Accuracy of the Bagging classifier accuracy is0.99715.
 Compared predictive performance by fitting a XGBoostClassifier & BaggingClassifier model to the data
 - Selected best model based on train and test performance.
 
-[the number of clusters for the data]()https://github.com/salauddinkhan1986/Kmeans-cluster-project/blob/main/Kmeans.ipynb
+[the number of clusters for the data](https://github.com/salauddinkhan1986/Kmeans-cluster-project/blob/main/Kmeans.ipynb)
 
 <img src="images/cluster.jpeg?raw=true"/>
 
@@ -79,12 +79,12 @@ Used the clustering algorithms,K-Means and Hierarchical clustering.
 - Fit a multiple logistic regression model with high prediction accuracy through iteration
 - Selected best model based on train and test performance.
 
-[Deployment_of_ML_Model_using_Flask_Framework]()https://github.com/salauddinkhan1986/Model_Deployment
+[Deployment_of_ML_Model_using_Flask_Framework](https://github.com/salauddinkhan1986/Model_Deployment)
 
 
 
 
-[Deep Neural Network with Keras for MNIST handwritten classification and recognition]()https://github.com/salauddinkhan1986/Hand-writing-Recoginition-project
+[Deep Neural Network with Keras for MNIST handwritten classification and recognition](https://github.com/salauddinkhan1986/Hand-writing-Recoginition-project)
 
 <img src="images/neural.jpeg?raw=true"/>
 
