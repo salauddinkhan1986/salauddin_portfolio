@@ -104,13 +104,12 @@ Used the keras and tensorflow.
 **Skills used**: Python, Pandas, sklearn, Matplotlib,
 LogisticRegression, DecisionTreeClassifier.
 
-**Quantifiable result**: We could predict the bike rental
-demand resulting in 81% accuracy.
+**Project Objective**: The classification goal is to predict the people having heart failure.
 
-**Project Objective**: Predicting demand on bike rentals
-based on weather and seasonal factors in advance, to
-give recommendations and take appropriate measures
-which will result in increased bike utilization.
-
-
+**Quantifiable Result:** We could predict the people having hart failure.
+- used  logistic regression model.
+ Accuracy of logistic regression is 81%
+- Encoded categorical variables to numeric using Sklearn due to the presence of many string columns.
+- Fit a multiple classification alogirthm.
+- Selected best model base on train and test performance.
 
