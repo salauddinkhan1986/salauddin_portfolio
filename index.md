@@ -106,7 +106,7 @@ LogisticRegression, DecisionTreeClassifier.
 
 **Project Objective**: The classification goal is to predict the people having heart failure.
 
-**Quantifiable Result:** We could predict the people having hart failure.
+**Quantifiable Result:** We could predict the people having heart failure.
 - used  logistic regression model.
  Accuracy of logistic regression is 81%
 - Encoded categorical variables to numeric using Sklearn due to the presence of many string columns.
