@@ -49,7 +49,7 @@ Here are some of my best Data Science Projects. I have explored various machine-
 - Compared predictive performance by fitting a Naive Bayes model to the data
 - Selected best model based on train and test performance
 
-[The data contains observations of about 240 million clicks, and whether a given click resulted in a download or not](https://github.com/salauddinkhan1986/Bagging-Boosting-Project/blob/main/Bagging_and_Boosting_project.ipynb)
+[TalkingData Project on Bagging and Boosting Ensemble Model,whether a given click resulted in a download or not](https://github.com/salauddinkhan1986/Bagging-Boosting-Project/blob/main/Bagging_and_Boosting_project.ipynb)
 
 <img src="images/data.jpeg?raw=true"/>
 
@@ -64,7 +64,7 @@ Accuracy of the Bagging classifier accuracy is0.99715.
 Compared predictive performance by fitting a XGBoostClassifier & BaggingClassifier model to the data
 - Selected best model based on train and test performance.
 
-[the number of clusters for the data](https://github.com/salauddinkhan1986/Kmeans-cluster-project/blob/main/Kmeans.ipynb)
+[Clustering ofSanFransisco Employees based on salary](https://github.com/salauddinkhan1986/Kmeans-cluster-project/blob/main/Kmeans.ipynb)
 
 <img src="images/cluster.jpeg?raw=true"/>
 
@@ -95,5 +95,22 @@ Used the keras and tensorflow.
 - Encoded categorical variables to numeric using Sklearn due to the presence of many string columns
 - Fit a multiple sigmoid and relu function.
 - Selected best model based on train and test performance.
+
+[Identifying The People Having Heart Failore](https://github.com/salauddinkhan1986/Heart-desease-prediction)
+
+<img src="images/heart.jpeg?raw=true"/>
+
+
+**Skills used**: Python, Pandas, sklearn, Matplotlib,
+LogisticRegression, DecisionTreeClassifier.
+
+**Quantifiable result**: We could predict the bike rental
+demand resulting in 81% accuracy.
+
+**Project Objective**: Predicting demand on bike rentals
+based on weather and seasonal factors in advance, to
+give recommendations and take appropriate measures
+which will result in increased bike utilization.
+
 
 
