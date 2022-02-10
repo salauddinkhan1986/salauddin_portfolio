@@ -44,7 +44,7 @@ Here are some of my best Data Science Projects. I have explored various machine-
 
 **Project Objective**: The classification goal is to predict of orthopedic parameters and provided with their classification as Normal or Abnormal.
 
-**Quantifiable Result:** We could predict the orthopedic patient is Normal or Abnormal Accuracy of the Naive Bayes Clasification is 82.26% .
+**Quantifiable Result:** We could predict the orthopedic patient is Normal or Abnormal <a href="https://github.com/salauddinkhan1986/KNN-NB-project">**Accuracy**</a> of the Naive Bayes Clasification is 82.26% .
 - Used the K Nearest Neighbours algorithm to classify a patient's condition as normal or abnormal based on various orthopedic parameters
 - Compared predictive performance by fitting a Naive Bayes model to the data
 - Selected best model based on train and test performance
@@ -58,10 +58,10 @@ Here are some of my best Data Science Projects. I have explored various machine-
 **Project Objective**: The classification goal is to The data contains observations of about 240 million clicks, and whether a given click resulted in a download or not (1/0): 
 
 **Quantifiable Result:** We could predict whether a given click resulted in a download or not.
-Accuracy of XGBoostClassifier 94.87%
-Accuracy of the Bagging classifier accuracy is0.99715.
+- the <a href="https://github.com/salauddinkhan1986/Bagging-Boosting-Project/blob/main/Bagging_and_Boosting_project.ipynb">**Accuracy**</a> XGBoostClassifier 94.87%.
+- **Accuracy** of the Bagging classifier accuracy is0.99715.
 - Used the XGBoostClassifier & BaggingClassifier whether a 240 million click resulted in download or not.
-Compared predictive performance by fitting a XGBoostClassifier & BaggingClassifier model to the data
+- Compared predictive performance by fitting a XGBoostClassifier & BaggingClassifier model to the data
 - Selected best model based on train and test performance.
 
 [Clustering ofSanFransisco Employees based on salary](https://github.com/salauddinkhan1986/Kmeans-cluster-project/blob/main/Kmeans.ipynb)
@@ -108,7 +108,7 @@ LogisticRegression, DecisionTreeClassifier.
 
 **Quantifiable Result:** We could predict the people having heart failure.
 - used  logistic regression model.
-- Accuracy of logistic regression is 81%
+- The</a href="https://github.com/salauddinkhan1986/Heart-desease-prediction">**Accuracy**  of logistic regression is 81%.
 - Encoded categorical variables to numeric using Sklearn due to the presence of many string columns.
 - Fit a multiple classification alogirthm.
 - Selected best model base on train and test performance.
