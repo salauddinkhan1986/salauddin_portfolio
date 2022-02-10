@@ -108,7 +108,7 @@ LogisticRegression, DecisionTreeClassifier.
 
 **Quantifiable Result:** We could predict the people having heart failure.
 - used  logistic regression model.
-- The </a href="https://github.com/salauddinkhan1986/Heart-desease-prediction">**Accuracy**</a>  of logistic regression is 81%.
+- The </a href="https://github.com/salauddinkhan1986/Heart-desease-prediction">**Accuracy** </a> of logistic regression is 81%.
 - Encoded categorical variables to numeric using Sklearn due to the presence of many string columns.
 - Fit a multiple classification alogirthm.
 - Selected best model base on train and test performance.
