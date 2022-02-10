@@ -12,7 +12,7 @@ Here are some of my best Data Science Projects. I have explored various machine-
 
 **Project Objective**: Predicting Bike rental demand on basis of weather and seasonal factors in advance to take appropiate measures which finally will result in bike utilization.
 
-**Quantifiable Result:** We could predict the rental bike count resulting in 78% Accuracy.
+**Quantifiable Result:** We could predict the rental bike count resulting in 78% <a href="https://github.com/salauddinkhan1986/Linear-regression-project/blob/master/Linear_Regression_.ipynb">**Accuracy** </a>
 - Used Linear Regression to predict the number of bikes rented in the city of Seoul
 - The data had quite a few categorical variables which were encoded for use in the model
 - Encoded categorical variables to numeric using Sklearn due to the presence of many string columns
@@ -24,11 +24,11 @@ Here are some of my best Data Science Projects. I have explored various machine-
 
 <img src="images/bank.jpeg?raw=true"/>
 
-*Skilled Used**: Python.Pandas and sklearn
+**Skilled Used**: Python.Pandas and sklearn
 
 **Project Objective**: The classification goal is to predict if the client will subscribe a term deposit (variable y).
 
-**Quantifiable Result:** We could predict the term deposit count resulting in 90% Accuracy.
+**Quantifiable Result:** We could predict the term deposit count resulting in 90% <a href="https://github.com/salauddinkhan1986/LOGISTIC-REGRESSION-PROJECT/blob/main/logistic_regression.ipynb">**Accuracy**.</a>
 - Used Logistic Regression to predict the number of peaople term deposit in the a Portuguese bank.
 - The data had quite a few categorical variables which were encoded for use in the model
 - Encoded categorical variables to numeric using Sklearn due to the presence of many string columns
