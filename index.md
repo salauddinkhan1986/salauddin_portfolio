@@ -115,7 +115,7 @@ LogisticRegression, DecisionTreeClassifier.
 
 [predict-youtube-videos-likes](https://github.com/salauddinkhan1986/predict-youtube-videos-likes)
 
-<img src="images/youtube.jpeg?raw=true"/>
+<img src="images/youtubelogo.jpeg?raw=true"/>
 
 **Skilled Used**: Python.Pandas and sklearn
 
