@@ -108,7 +108,7 @@ LogisticRegression, DecisionTreeClassifier.
 
 **Quantifiable Result:** We could predict the people having heart failure.
 -   used  logistic regression model.
--    The model <a href="https://github.com/salauddinkhan1986/Heart-desease-prediction">**Accuracy** </a> of logistic regression is 81%.
+-    The model<a href="https://github.com/salauddinkhan1986/  Heart-desease-prediction"> **Accuracy** </a> of logistic regression is 81%.
 -   Encoded categorical variables to numeric using Sklearn due to the   presence of many string columns.
 -   Fit a multiple classification alogirthm.
 -   Selected best model base on train and test performance.
@@ -123,6 +123,7 @@ LogisticRegression, DecisionTreeClassifier.
 
 **Quantifiable Result:** We could predict the youtube videos likes.
 - Used Linear Regression to predict the number of youtube videos likes.
+- The <a href="https://github.com/salauddinkhan1986/predict-youtube-videos-likes"> **Accuracy** </a> is 50%.
 - The data had quite a few categorical variables which were encoded for use in the model.
 - Encoded categorical variables to numeric using Sklearn due to the presence of many string columns
 - Fit a multiple linear regression model with high prediction.
